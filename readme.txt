@@ -5,4 +5,5 @@ Hello Git.
 Git tracks changes of files.
 Creat a new branch is quickly.
 Creat a new branch is quick AND simple.
+stash test
 
