@@ -3,3 +3,4 @@ Git is free software.
 Git is a free software distribted under the GPL.
 Hello Git.
 Git tracks changes of files.
+Creat a new branch is quickly.
